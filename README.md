@@ -6,6 +6,7 @@ A simple Python tool that checks how strong a password is based on:
 - Lowercase letters
 - Numbers
 - Special characters
+- Strength
 
 ## How to run
 ```bash
